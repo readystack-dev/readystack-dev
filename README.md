@@ -1,13 +1,14 @@
-# ReadyStack
+[![ReadyStack](https://readystack.dev/logo.svg)](https://readystack.dev)
 
-ReadyStack packages open-source software as images people can run and trust, and keeps them that way: each release is rebuilt from the source, pinned base images and pinned dependencies with the network off, checked against the published digest, documented with admin and database handbooks checked against the exact image, scanned, signed and graded again every day. A release that falls below grade A is flagged for a rebuild.
+# Stable, Open-source Releases, Automated
+
+**Stable, Open-source Releases, Automated.** ReadyStack releases popular open-source apps every week with every available critical and high security fix applied, plus full documentation, reference data, tests and a build recipe that recreates each release bit-for-bit. Each release is rebuilt from its pinned inputs with the network off, checked against its published digest, signed, and scanned and graded again every day. The images and build kits are free, and ReadyStack is soon to be a nonprofit.
 
 - Website: https://readystack.dev
 - Products: https://readystack.dev/products.html
 - Defect log: https://readystack.dev/defects.html
-- Contact: contact@readystack.dev
-
-Build kits are free. ReadyStack is soon to be a nonprofit.
+- Docker Hub: https://hub.docker.com/u/readystack
+- Contact: contact@readystack.dev · security reports: support@readystack.dev
 
 ## Build kits
 
