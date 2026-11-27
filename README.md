@@ -1,6 +1,6 @@
 [![ReadyStack](https://readystack.dev/logo.svg)](https://readystack.dev)
 
-# Stable, Open-source Releases, Automated
+# ReadyStack
 
 **Stable, Open-source Releases, Automated.** ReadyStack releases popular open-source apps every week with every available critical and high security fix applied, plus full documentation, reference data, tests and a build recipe that recreates each release bit-for-bit. Each release is rebuilt from its pinned inputs with the network off, checked against its published digest, signed, and scanned and graded again every day. The images and build kits are free, and ReadyStack is soon to be a nonprofit.
 
