@@ -17,6 +17,7 @@ Each repository holds one product's build kit: its recipe in the repository, and
 | Product | Current release | Grade at release | Build kit |
 |---|---|---|---|
 | [Apache Airflow](https://readystack.dev/products/airflow) | [`3.4.0-CE-ubuntu24.04-r4`](https://github.com/readystack-dev/airflow/releases/tag/3.4.0-CE-ubuntu24.04-r4) | A (94%), 2026-11-27 | [readystack-dev/airflow](https://github.com/readystack-dev/airflow) |
+| [Apache CouchDB](https://readystack.dev/products/couchdb) | [`3.5.3-CE-ubuntu24.04-r5`](https://github.com/readystack-dev/couchdb/releases/tag/3.5.3-CE-ubuntu24.04-r5) | A (94%), 2026-11-27 | [readystack-dev/couchdb](https://github.com/readystack-dev/couchdb) |
 | [Apache httpd](https://readystack.dev/products/httpd) | [`2.4.71-CE-ubuntu24.04-r5`](https://github.com/readystack-dev/httpd/releases/tag/2.4.71-CE-ubuntu24.04-r5) | A (94%), 2026-11-25 | [readystack-dev/httpd](https://github.com/readystack-dev/httpd) |
 | [Apache Kafka](https://readystack.dev/products/kafka) | [`4.4.0-CE-ubuntu24.04-r7`](https://github.com/readystack-dev/kafka/releases/tag/4.4.0-CE-ubuntu24.04-r7) | A (94%), 2026-11-20 | [readystack-dev/kafka](https://github.com/readystack-dev/kafka) |
 | [Apache Superset](https://readystack.dev/products/superset) | [`6.1.0-CE-ubuntu24.04-r8`](https://github.com/readystack-dev/superset/releases/tag/6.1.0-CE-ubuntu24.04-r8) | A (94%), 2026-11-24 | [readystack-dev/superset](https://github.com/readystack-dev/superset) |
@@ -75,7 +76,7 @@ Each repository holds one product's build kit: its recipe in the repository, and
 | [Nextcloud](https://readystack.dev/products/nextcloud) | [`v35.0.3-CE-ubuntu24.04-r6`](https://github.com/readystack-dev/nextcloud/releases/tag/v35.0.3-CE-ubuntu24.04-r6) | A (94%), 2026-11-27 | [readystack-dev/nextcloud](https://github.com/readystack-dev/nextcloud) |
 | [NGINX](https://readystack.dev/products/nginx) | [`1.31.10-CE-ubuntu24.04-r1`](https://github.com/readystack-dev/nginx/releases/tag/1.31.10-CE-ubuntu24.04-r1) | A (94%), 2026-11-24 | [readystack-dev/nginx](https://github.com/readystack-dev/nginx) |
 | [Node.js](https://readystack.dev/products/nodejs) | [`26.13.1-CE-ubuntu24.04-r2`](https://github.com/readystack-dev/nodejs/releases/tag/26.13.1-CE-ubuntu24.04-r2) | A (94%), 2026-11-20 | [readystack-dev/nodejs](https://github.com/readystack-dev/nodejs) |
-| [NodeBB](https://readystack.dev/products/nodebb) | [`v4.16.9-CE-ubuntu24.04-r1`](https://github.com/readystack-dev/nodebb/releases/tag/v4.16.9-CE-ubuntu24.04-r1) | A (94%), 2026-11-25 | [readystack-dev/nodebb](https://github.com/readystack-dev/nodebb) |
+| [NodeBB](https://readystack.dev/products/nodebb) | [`v4.16.9-CE-ubuntu24.04-r2`](https://github.com/readystack-dev/nodebb/releases/tag/v4.16.9-CE-ubuntu24.04-r2) | A (94%), 2026-11-27 | [readystack-dev/nodebb](https://github.com/readystack-dev/nodebb) |
 | [OpenBao](https://readystack.dev/products/openbao) | [`v2.7.3-CE-ubuntu24.04-r1`](https://github.com/readystack-dev/openbao/releases/tag/v2.7.3-CE-ubuntu24.04-r1) | A (94%), 2026-11-22 | [readystack-dev/openbao](https://github.com/readystack-dev/openbao) |
 | [OpenProject](https://readystack.dev/products/openproject) | [`v17.9.8-CE-ubuntu24.04-r2`](https://github.com/readystack-dev/openproject/releases/tag/v17.9.8-CE-ubuntu24.04-r2) | A (94%), 2026-11-25 | [readystack-dev/openproject](https://github.com/readystack-dev/openproject) |
 | [OpenSearch](https://readystack.dev/products/opensearch) | [`3.9.0-CE-ubuntu24.04-r7`](https://github.com/readystack-dev/opensearch/releases/tag/3.9.0-CE-ubuntu24.04-r7) | A (94%), 2026-11-19 | [readystack-dev/opensearch](https://github.com/readystack-dev/opensearch) |
@@ -115,6 +116,6 @@ Each repository holds one product's build kit: its recipe in the repository, and
 | [Zabbix](https://readystack.dev/products/zabbix) | [`7.4.16-CE-ubuntu24.04-r5`](https://github.com/readystack-dev/zabbix/releases/tag/7.4.16-CE-ubuntu24.04-r5) | A (94%), 2026-11-25 | [readystack-dev/zabbix](https://github.com/readystack-dev/zabbix) |
 | [ZITADEL](https://readystack.dev/products/zitadel) | [`v4.20.5-CE-ubuntu24.04-r1`](https://github.com/readystack-dev/zitadel/releases/tag/v4.20.5-CE-ubuntu24.04-r1) | A (94%), 2026-11-23 | [readystack-dev/zitadel](https://github.com/readystack-dev/zitadel) |
 
-98 products. The current grade of each release, measured again every day, is on its product page.
+99 products. The current grade of each release, measured again every day, is on its product page.
 
 — ReadyStack · https://readystack.dev
